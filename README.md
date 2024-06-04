@@ -8,7 +8,7 @@ This website is very useful for making it easy for users to find and buy fashion
 |-------------|-------------|
 | Muhammad Tegar Wahyu Hidayatullah |    Frontend, Backend, & Database  |
 |-------------|-------------|
-| Al Fikri Ardhi Yaassiin |    Frontend & Backend    |
+| Al Fikri Ardhi Yaassiin |    Frontend, Backend, & README   |
 |-------------|-------------|
 | Muhammad Zaidan Radwa Al Bahri |    Report    |
 |-------------|-------------|
