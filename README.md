@@ -20,7 +20,7 @@ This website is very useful for making it easy for users to find and buy fashion
 
 
 ## ERD Design
-![nama gambar](url gambar)
+![erd-fashion-crud](https://github.com/Zlynco/FASHIONMK3KEL1/blob/main/public/tamplate/img/erd-fashion-crud.jpg)
 
 ### Application Features
 
